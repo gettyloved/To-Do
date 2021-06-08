@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To do</string>
+    <string name="coffeebuzz">CoffeeBuzz</string>
+    <string name="user_name">User Name</string>
+    <string name="email_register">Email</string>
+    <string name="password_register">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="google">Google</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Other</item>
+    </string-array>
+</resources>
